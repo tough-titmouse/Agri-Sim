@@ -1,5 +1,5 @@
 # Agri-Sim
-![Uploading 系统.png…]()
+<img width="1513" height="786" alt="系统" src="https://github.com/user-attachments/assets/d0048aed-5700-428b-8856-f31f769d11ec" />
 
 Agri-Sim is an agricultural embodied-intelligence virtual training
 platform developed with Unity and ROS 2.
