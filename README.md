@@ -30,6 +30,6 @@ Download the latest Ubuntu build from the
 Extract the downloaded package and execute:
 
 ```bash
-cd AgriSim-v1.0.0-Ubuntu-x86_64
+cd AgriSim-v0.5.0-Ubuntu-x86_64
 chmod +x AgriSim.x86_64
 ./AgriSim.x86_64
